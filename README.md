@@ -25,7 +25,8 @@ After this ,there are some function u shoule remember:
 + status  // check the status of this repo
 + add filename
 + add --all // State file so could wait to be commited
-+ commit -m ***merge*** // commit file with merge to explain the operation or reason
++ commit -m ***measage*** // commit file with merge to explain the operation or reason
++ commit -a -m ***measage*** // commit without state file
 + branch **new branck name** // create new branch
 + checkout **branch name**  // enter specific branch
 + checkout -b **emergency branch name**
